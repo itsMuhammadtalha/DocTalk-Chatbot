@@ -1,0 +1,57 @@
+/* styles.css */
+body { 
+    background-color: #1e1e1e; 
+}
+.stApp { 
+    background-color: #2c2c2c; 
+    color: #ffffff; 
+}
+h1 { 
+    text-align: center; 
+    color: #f0a500; 
+}
+.stTextInput > div > div > input { 
+    border-radius: 20px; 
+    background-color: #3a3a3a; 
+    color: #ffffff; 
+    width: 80%; 
+    margin: 0 auto; 
+}
+.chat-container { 
+    max-width: 600px; 
+    margin: 0 auto; 
+}
+.chat-bubble { 
+    color: #ffffff; 
+    max-width: 80%; 
+    margin: 10px auto; 
+}
+.user-bubble { 
+    background: #0078FF; 
+    color: white; 
+    border-radius: 15px; 
+    padding: 10px; 
+}
+.ai-bubble { 
+    background: #444444; 
+    color: white; 
+    border-radius: 15px; 
+    padding: 10px; 
+}
+.chat-bar { 
+    background: #3a3a3a; 
+    padding: 10px; 
+    border-radius: 15px; 
+}
+.stButton > button { 
+    background-color: #0078FF; 
+    color: white; 
+    border-radius: 20px; 
+    width: 100%; 
+}
+.stButton > button:hover { 
+    background-color: #0056b3; 
+}
+.stWarning { 
+    color: #ffcc00; 
+}
