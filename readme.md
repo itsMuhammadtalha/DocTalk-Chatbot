@@ -2,6 +2,9 @@
 
 ### Live url : https://doctalk-chatbotgit-37jj9xymmvdg7nycpwlpqr.streamlit.app/
 
+### Demo video : https://youtu.be/RU84qcFG9Kk
+
+
 ## Overview
 Gemini AI PDF Chat is a Streamlit application that allows users to upload PDF documents and interact with them through a chatbot interface. The application utilizes various libraries, including LangChain and Google Generative AI, to process and analyze the content of the uploaded PDFs.
 
